@@ -28,7 +28,7 @@ Tenho 18 anos, atualmente moro em salvador, Bahia. A pouco tempo terminei um cur
 ### Já Utilizei
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="GoldFNX-languages" height="50" width="800" src="https://skillicons.dev/icons?i=html,css,nodejs,js,ts,react,vite,postgres,git,github,figma,ai,ps,pr,il">
+  <img align="center" alt="ryan robert-languages" height="50" width="800" src="https://skillicons.dev/icons?i=html,css,nodejs,js,ts,react,vite,postgres,git,github,figma,ai,ps,pr,il">
 </div>
 
 
@@ -50,8 +50,8 @@ Tenho 18 anos, atualmente moro em salvador, Bahia. A pouco tempo terminei um cur
 
 <p align="center">
 <a href="https://github.com/GoldFNX">
-  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GoldFNX&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>&nbsp;
-  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GoldFNX&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ryanrobert1227&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>&nbsp;
+  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ryanrobert1227&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
