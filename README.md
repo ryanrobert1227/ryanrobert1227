@@ -37,7 +37,7 @@ Tenho 18 anos, atualmente moro em salvador, Bahia. A pouco tempo terminei um cur
 ###  Mais sobre mim 
 
 
--  Meu primeiro contato com programação foi em 2021 aos  16 anos, ta mais relacionado a logica, porem gostava de criar macros/bots pra facilita minha vida nos Jogos.
+-  Meu primeiro contato com programação foi em 2021 aos  16 anos, ta mais relacionado a logica, porem gostava de criar macros/bots pra facilita a vida em tudo, desde jogos a trabalhos.
 -  Sou como ficou claro acima gosto de passar meu tempo livre jogando, mas alem disso, Leio manga, assisto animes e pratico esportes como basquete e stand up pedal.
 -  Gosto muito de dias frios e nublados pra fica todo coberto com filme e pipoca. 
 
