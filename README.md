@@ -25,12 +25,10 @@
 Tenho 18 anos, atualmente moro em salvador, Bahia. A pouco tempo terminei um curso de designer grafico, porém agora estou mudando de area e estudando programação
  com o curso da Cubos academy e espero me da muito bem, esse sou eu! S2. 
 
-### Estou aprendendo
+### Já Utilizei
 
 <div style="display: inline_block"><br>
-  <img href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript" align="center" alt="GoldFNX-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img href = "https://www.w3.org/html/" align="center" alt="GoldFNX-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img href = "https://www.w3schools.com/css/" align="center" alt="GoldFNX-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="GoldFNX-languages" height="50" width="800" src="https://skillicons.dev/icons?i=html,css,nodejs,js,ts,react,vite,postgres,git,github,figma,ai,ps,pr,il">
 </div>
 
 
