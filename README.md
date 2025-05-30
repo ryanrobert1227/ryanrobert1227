@@ -22,7 +22,7 @@
 
 ## Hello, World!
 
-Tenho 18 anos, atualmente moro em salvador, Bahia. A pouco tempo terminei um curso de designer grafico, porém agora estou mudando de area e estudando programação
+Tenho 20 anos, atualmente moro em salvador, Bahia. A pouco tempo terminei um curso de designer grafico, porém agora estou mudando de area e estudando programação
  com o curso da Cubos academy e espero me da muito bem, esse sou eu! S2. 
 
 ### Já Utilizei
